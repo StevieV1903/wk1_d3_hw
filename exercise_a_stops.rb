@@ -26,4 +26,4 @@ p stops_reverse
 #10 Print out all the stops using a for loop
 for stations in stops
   p stations
-end 
+end
