@@ -84,5 +84,8 @@ users["Erik"][:pets] << {
   :name => "Fluffy",
   :species => "dog"
 }
-p users["Erik"][:pets] << "dog" => "Fluffy"
+p users["Erik"][:pets][4]
 # 10. Add another person to the users hash
+users << {
+  git
+}
